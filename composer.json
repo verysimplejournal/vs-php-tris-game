@@ -1,0 +1,8 @@
+{
+    "name": "markirnanflores/simple-php-tris",
+    "description": "Simple Tris Game on PHP",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
